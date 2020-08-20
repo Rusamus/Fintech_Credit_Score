@@ -1,1 +1,1 @@
-# Fintech_Risk_Analytic
+# Fintech_Credit_Score
