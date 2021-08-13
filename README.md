@@ -1,2 +1,2 @@
 # Fintech_Credit_Score
-It's study project
+It's a study project
